@@ -6,6 +6,3 @@ Für diese Woche habe ich mich dafür entschieden an Modul 319 weiter zu arbeite
 
 - [x] Modul 319 beenden, für was ich nicht mehr lange brauche.
 - [x] Mit dem Programmierprojekt starten und planen, was ich durcharbeiten werde.
-- [ ] 
-
-
