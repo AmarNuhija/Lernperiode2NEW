@@ -13,10 +13,25 @@ Heute habe ich mich intensiv auf die Bearbeitung von Modul 319 konzentriert. Im 
 
   # Arbeitspackete
 
-- [ ] Nochmals Modul 319 für das letzte mal bearbeiten.
-- [ ] Programmierprojekt planen und mögliche Ideen aufstellen
-- [ ] Spiele wie Tetris oder Snake verstehen können
+- [x] Nochmals Modul 319 für das letzte mal bearbeiten.
+- [x] Programmierprojekt planen und mögliche Ideen aufstellen
+- [x] Spiele wie Tetris oder Snake verstehen können
 - [ ] Diese Spiele versuchen in ein c#-Programm umzusetzen
+
+# Leit-Satz
+Dieses mal ging es besser als am letzten Online Unterricht. Den dieses mal hatte ich wirklich was zu tun, auf das ich mich voll die 4 Stunden konzentrieren konnte. Wie ich es auch jedesmal sagen kann ist, das es von zuhause aus meiner Meinung nach viel besser geht als im Unterricht. M319 war schwieriger als M431, doch das kann ich bis jetzt noch nicht belegen, weil es gerade einmal nur 2 Module waren. Trotz allen Schwierigkeiten die ich in M319 hatte, konnte ich sie gut und zufrieden meistern(87 Wörter)
+
+
+
+# 03.11.2023
+
+# Arbeitspackete
+
+- [] Snake in C# versuchen umzusetzen.
+- [] An das Programmierprojekte arbeiten
+- [] Je nach dem M162 arbeiten
+- [] Mich entscheiden was für ein Programm ich machen möchte
+
 
 
 
