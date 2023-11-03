@@ -32,7 +32,14 @@ Dieses mal ging es besser als am letzten Online Unterricht. Den dieses mal hatte
 - [] Je nach dem M162 arbeiten
 - [] Mich entscheiden was für ein Programm ich machen möchte
 
+# Leit-Satz
+Wie jedes Mal kann ich mich immer wiederholen: Heute lief es im Online-Unterricht etwas besser. Leider konnte ich mich heute nicht vollständig auf das Programmierprojekt konzentrieren, da ich mich auch auf die anstehenden Prüfungen vorbereiten musste. In der nächsten Woche stehen etwa 4 Prüfungen an, daher habe ich meine Zeit aufgeteilt und mehr Zeit ins Lernen investiert. Die restliche Zeit (ca. 1,5 Stunden) habe ich für die Erstellung eines zweiten Prototyps unseres Hypothekenrechners verwendet, zusammen mit Alan konnten wir das gut meistern. Zu Snake kam ich erst am Ende, und es stellte sich als ziemlich anspruchsvoll heraus, da ich gerade erst am Anfang stehe.(104 Wörter)
 
+# 10.11.2023
 
+# Arbeitspackete
 
-
+- [x] Programmmierprojekt weitearbeiten.
+- [x] Einen möglichen letzten Hypothekenrechner erstellen.
+- [x] Wohlmöglich eine kurze Zeit ins Lernen investieren.
+- [x] Modul 162 weiter bearbeiten.
