@@ -43,3 +43,12 @@ Wie jedes Mal kann ich mich immer wiederholen: Heute lief es im Online-Unterrich
 - [x] Einen möglichen letzten Hypothekenrechner erstellen.
 - [x] Wohlmöglich eine kurze Zeit ins Lernen investieren.
 - [x] Modul 162 weiter bearbeiten.
+
+# Leit-Satz
+Heute hatte ich nicht so viel Zeit, um überhaupt etwas zu machen, weil wir noch den Deutschtest schreiben mussten. Doch dies hielt mich nicht davon ab, weitere Videos von guten Codes du schreiben anzuschauen. Mir und Alan geling es, einen noch besseren und strukturierteren Code zu schreiben. Diese Woche haben wir hinzugefügt, das wenn ein Buchstabe eingegeben wird, dass es keinen Error gibt und abstürzt, sondern dass das Programm die Anforderung aufstellt, eine gültige Zahl einzugeben. Heute ist es uns auch nicht gelungen, dass wenn die Eigenmittel im Fall grösser sind als der Kaufpreis, wird das Programm nicht die fehlenden Werte weiter ausrechnen.(103 Wörter) 
+
+
+
+
+
+
