@@ -47,7 +47,17 @@ Wie jedes Mal kann ich mich immer wiederholen: Heute lief es im Online-Unterrich
 # Leit-Satz
 Heute hatte ich nicht so viel Zeit, um überhaupt etwas zu machen, weil wir noch den Deutschtest schreiben mussten. Doch dies hielt mich nicht davon ab, weitere Videos von guten Codes du schreiben anzuschauen. Mir und Alan geling es, einen noch besseren und strukturierteren Code zu schreiben. Diese Woche haben wir hinzugefügt, das wenn ein Buchstabe eingegeben wird, dass es keinen Error gibt und abstürzt, sondern dass das Programm die Anforderung aufstellt, eine gültige Zahl einzugeben. Heute ist es uns auch nicht gelungen, dass wenn die Eigenmittel im Fall grösser sind als der Kaufpreis, wird das Programm nicht die fehlenden Werte weiter ausrechnen.(103 Wörter) 
 
+# 01.12.2023
 
+# Arbeitspackete
+
+- [x] Programmierprojekt fertigstellen
+- [x] Modul 162 
+- [x] An Snake-Spiel weiterarbeiten
+- [x] 
+
+# Leit-Satz
+Dieses Mal hatten meine Gruppe und ich mehr Stress bei der Arbeit an unserem Projekt, weil es uns einfach nicht gelungen ist, es vollständig zu programmieren. Wir hoffen, es am Wochenende fertigstellen zu können. Das Hauptproblem lag in der Amortisation. Wir haben es einfach nicht geschafft, die korrekte Faustregel und die richtige Formel zu codieren. Trotz dieser Herausforderungen sind wir aufgestanden, haben unsere Krone aufgesetzt und den Code weiterentwickelt.(69 Wörter)
 
 
 
