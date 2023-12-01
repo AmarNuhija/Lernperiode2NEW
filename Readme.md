@@ -59,6 +59,17 @@ Heute hatte ich nicht so viel Zeit, um überhaupt etwas zu machen, weil wir noch
 # Leit-Satz
 Dieses Mal hatten meine Gruppe und ich mehr Stress bei der Arbeit an unserem Projekt, weil es uns einfach nicht gelungen ist, es vollständig zu programmieren. Wir hoffen, es am Wochenende fertigstellen zu können. Das Hauptproblem lag in der Amortisation. Wir haben es einfach nicht geschafft, die korrekte Faustregel und die richtige Formel zu codieren. Trotz dieser Herausforderungen sind wir aufgestanden, haben unsere Krone aufgesetzt und den Code weiterentwickelt.(69 Wörter)
 
+# 08.12.2023
+
+# Arbeitspackete
+
+- [x] Neues Modul beim Herrn Fähndrich
+- [x] Für die Test auf nächste Woche lernen
+- [x] Snake spiel anfangen
+
+# Leit-Satz
+Für heute haben sich meine Gruppe und ich auf das Programmierprojekt konzentriert, weil wir die Amortisation immer noch nicht hinbekommen haben, eine Formel herauszubekommen. Leider gab es dieses Mal kein Fortschritt über die Formel, deswegen habe wir dann Frau Klink kontaktiert und mit Ihr nochmal einen letzten Termin abgemacht. Der findet aber nach den Projekten statt. Ich will nicht einen auf Polizisten machen, aber Ylli war seit den letzten Wochen nicht mit dabei an unseren Tagen, bei denen wir eigentlich arbeiten sollten. Das Finden Alan und ich sehr schade, da sehr viel kostbare Zeit einfach verloren geht. Als Beispiel waren Alan und ich heute wieder allein im Call wie auch die letzten 4 male, was einfach gar kein Spass gemacht hat, weil wir dann die Arbeit für Ylli noch erledigen mussten und dass nicht wirklich hinbekommen haben da der Stress einfach zu hoch war.(144 Wörter)
+
 
 
 
