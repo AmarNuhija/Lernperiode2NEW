@@ -70,6 +70,30 @@ Dieses Mal hatten meine Gruppe und ich mehr Stress bei der Arbeit an unserem Pro
 # Leit-Satz
 Für heute haben sich meine Gruppe und ich auf das Programmierprojekt konzentriert, weil wir die Amortisation immer noch nicht hinbekommen haben, eine Formel herauszubekommen. Leider gab es dieses Mal kein Fortschritt über die Formel, deswegen habe wir dann Frau Klink kontaktiert und mit Ihr nochmal einen letzten Termin abgemacht. Der findet aber nach den Projekten statt. Ich will nicht einen auf Polizisten machen, aber Ylli war seit den letzten Wochen nicht mit dabei an unseren Tagen, bei denen wir eigentlich arbeiten sollten. Das Finden Alan und ich sehr schade, da sehr viel kostbare Zeit einfach verloren geht. Als Beispiel waren Alan und ich heute wieder allein im Call wie auch die letzten 4 male, was einfach gar kein Spass gemacht hat, weil wir dann die Arbeit für Ylli noch erledigen mussten und dass nicht wirklich hinbekommen haben da der Stress einfach zu hoch war.(144 Wörter)
 
+# 15.12.2023
+
+# Arbeitspackete
+
+- [x] Modul 117 weterarbeiten
+- [x] Snake spiel programmieren
+- [x] C# nicht vernachlässigen
+- [ ] Hypothekenrechner weiterprogrammieren
+
+# Leit-Satz
+Heute war kein besonders produktiver Tag, da ich größtenteils an meinen Modulen gearbeitet und mich generell auf die anstehenden Prüfungen vorbereitet habe. Leider konnte ich mich nicht wirklich auf Advent of Code konzentrieren und mich ans Programmieren heranwagen. Das hindert mich jedoch nicht daran, auch außerhalb des Lernateliers daran zu arbeiten. Das Snake-Spiel konnte ich bisher nicht beginnen, da es einfach zu viel Zeit erfordert. Ich plane, mich damit auseinanderzusetzen, wenn ich genügend Zeit und Ruhe dafür habe. Dennoch habe ich bereits mit der Entwicklung eines Tic-Tac-Toe-Spiels begonnen.(88 Wörter) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
