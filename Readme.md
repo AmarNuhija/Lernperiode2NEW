@@ -82,14 +82,15 @@ Für heute haben sich meine Gruppe und ich auf das Programmierprojekt konzentrie
 # Leit-Satz
 Heute war kein besonders produktiver Tag, da ich größtenteils an meinen Modulen gearbeitet und mich generell auf die anstehenden Prüfungen vorbereitet habe. Leider konnte ich mich nicht wirklich auf Advent of Code konzentrieren und mich ans Programmieren heranwagen. Das hindert mich jedoch nicht daran, auch außerhalb des Lernateliers daran zu arbeiten. Das Snake-Spiel konnte ich bisher nicht beginnen, da es einfach zu viel Zeit erfordert. Ich plane, mich damit auseinanderzusetzen, wenn ich genügend Zeit und Ruhe dafür habe. Dennoch habe ich bereits mit der Entwicklung eines Tic-Tac-Toe-Spiels begonnen.(88 Wörter) 
 
+# 22.12.2023
 
+# Arbeitspackete
 
+- [x] Modul 117 weiterarbeiten
+- [ ] Tic-Tac-Toe Spiel den Aufbau richtig verstehen
 
-
-
-
-
-
+# Leit-Satz
+Heute waren wir wieder an der BBB, und diesmal hat mich überrascht, wie gut es mit dem Arbeiten funktioniert hat. Ich habe meinem Tic-Tac-Toe-Spiel die letzten Feinschliffe gegeben und bin mit meiner ersten Leistung zufrieden. Ab und zu habe ich das Internet zur Hilfe genommen, aber den größten Teil verstehe ich bereits. Die einzigen Probleme bestehen nicht darin, den Code zu verstehen, sondern den Code richtig in die entsprechende Form umzuwandeln. Dennoch habe ich heute auch am Modul 117 weitergearbeitet, da ich nichts anderes zu tun hatte und kein neues großes Thema in so kurzer Zeit beginnen wollte. (78 Wörter)
 
 
 
