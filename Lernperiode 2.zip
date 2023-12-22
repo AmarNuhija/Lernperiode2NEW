@@ -1,0 +1,81 @@
+﻿using System;
+namespace Hypothekenrechner2._0
+{
+
+    internal class Program
+    {
+
+        private static double x;
+        static void Main(string[] args)
+        {
+            Console.WriteLine("UBS Hypothekenrechner");
+            Console.WriteLine("Erstellt von Amar Nuhija, Alan Lienhard und Ylli Cockgeci");
+            Console.WriteLine();
+
+            var x3 = Math.Pow(x, 3);
+            var y3 = Math.Pow(x, 3);
+            double Kaufpreis, Jahreseinkommen, Eigenmittel;
+
+            Console.Write("Kaufpreis der Immobilie: ");
+            while (!double.TryParse(Console.ReadLine(), out Kaufpreis))
+            {
+                Console.WriteLine("Ungültige Eingabe. Bitte geben Sie eine gültige Zahl ein.");
+                Console.Write("Kaufpreis der Immobilie: ");
+            }
+
+            Console.Write("Jährliches Einkommen: ");
+            while (!double.TryParse(Console.ReadLine(), out Jahreseinkommen))
+            {
+                Console.WriteLine("Ungültige Eingabe. Bitte geben Sie eine gültige Zahl ein.");
+                Console.Write("Jährliches Einkommen: ");
+            }
+                                                                                                                                
+            Console.Write("Eigenmittel: ");
+            while (!double.TryParse(Console.ReadLine(), out Eigenmittel))
+            { 
+                Console.WriteLine("Ungültige Eingabe. Bitte geben Sie eine gültige Zahl ein.");
+                Console.Write("Eigenmittel: ");
+            }
+
+            double Jahreszinsen = 0.024;
+            int Vertragdauer = 15;
+
+            double Monatlzinssatz = Jahreszinsen / 12;
+
+            double Darlehensbetrag = Kaufpreis - Eigenmittel;
+
+            int Anzahlzahlung = Vertragdauer * 12;
+            double Amortisation = Darlehensbetrag / Anzahlzahlung;
+            
+            double Sonstigerprozentsatz = 0.01;
+            double Monatlprozentsatz = Kaufpreis * Sonstigerprozentsatz / 12;
+
+            double Monatlzahlung = (Darlehensbetrag * Monatlzinssatz) + Amortisation + Monatlprozentsatz;
+
+            if (Eigenmittel >= Kaufpreis)
+            {
+                Console.WriteLine("Sie haben genügend eigene Mittel und benötigen keine Hypothek.");
+            }
+            else
+            {
+                Console.WriteLine("Ihre Monatlichen Kosten der Hypothek:");
+                Console.WriteLine($"Amortisation: {Amortisation:C2}");
+                Console.WriteLine($"Zinsen: {(Darlehensbetrag * Monatlzinssatz):C2}");
+                Console.WriteLine($"Nebenkosten: {Monatlprozentsatz:C2}");
+                Console.WriteLine($"Gesamt: {Monatlzahlung:C2}");
+
+                {
+                    if (Jahreseinkommen / 12 > Monatlzahlung)
+                    {
+                        Console.WriteLine("Ihr Monatliches Einkommen ist ausreichend, um die Immobilie zu kaufen.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Ihr Monatliches Einkommen ist nicht ausreichend, um die Immobilie zu kaufen.");
+
+                    }
+                }
+            }
+        }
+    }
+}
