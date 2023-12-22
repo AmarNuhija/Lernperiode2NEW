@@ -93,6 +93,17 @@ Heute war kein besonders produktiver Tag, da ich größtenteils an meinen Module
 Heute waren wir wieder an der BBB, und diesmal hat mich überrascht, wie gut es mit dem Arbeiten funktioniert hat. Ich habe meinem Tic-Tac-Toe-Spiel die letzten Feinschliffe gegeben und bin mit meiner ersten Leistung zufrieden. Ab und zu habe ich das Internet zur Hilfe genommen, aber den größten Teil verstehe ich bereits. Die einzigen Probleme bestehen nicht darin, den Code zu verstehen, sondern den Code richtig in die entsprechende Form umzuwandeln. Dennoch habe ich heute auch am Modul 117 weitergearbeitet, da ich nichts anderes zu tun hatte und kein neues großes Thema in so kurzer Zeit beginnen wollte. (78 Wörter)
 
 
+## Reflexion Lernperiode 2
+
+Die letzten sieben Wochen waren richtig spannend für mich, weil wir uns mit den neuen Modulen 162, 117 und 164 intensiv beschäftigt haben. Besonders cool fand ich, dass wir uns auf Datenmodellierung und Netzwerke konzentriert haben – das hat meinen Horizont erweitert und meine Fähigkeiten im Bereich Softwareentwicklung auf ein neues Level gebracht.
+
+Am Anfang von Modul 162 war es ziemlich anspruchsvoll, weil wir uns viel mit Datenmodellierung beschäftigen mussten. Aber der Test am Ende hat mir die Chance gegeben, zu checken, was ich gelernt habe. Das hat nicht nur mein Verständnis vertieft, sondern auch meine Fähigkeit verbessert, knifflige Probleme mit Daten effizient zu lösen.
+
+Dann kam Modul 117 vor etwa drei Wochen, das sich auf Netzwerke konzentrierte. Das war echt interessant, weil wir die Grundlagen und fortgeschrittenen Konzepte der Netzwerktechnologie durchgenommen haben. Die praktischen Übungen haben mir geholfen, zu verstehen, wie man Netzwerke konfiguriert und managt. Das Ganze in der Praxis anzuwenden, hat mir gezeigt, wie komplex Netzwerksysteme sein können.
+
+Vor einer Woche haben wir schließlich mit Modul 164 angefangen, das wieder auf die Datenmodellierung abzielt. Der nahtlose Übergang zwischen den Modulen hat es uns ermöglicht, das bereits Gelernte zu nutzen und unsere Fähigkeiten weiter zu verbessern. Die Beispiele aus der Praxis in diesem Modul haben mir geholfen, die Vielseitigkeit der Datenmodellierung zu verstehen und wie man sie in verschiedenen Situationen einsetzen kann.
+
+Alles in allem hat diese Lernperiode von sieben Wochen meine Programmierkenntnisse ordentlich erweitert. Die Mischung aus Theorie, praktischen Übungen und Tests hat nicht nur meine Fachkenntnisse gestärkt, sondern auch meine Selbstständigkeit und die Fähigkeit, Probleme zu lösen, verbessert. Wenn ich auf das schaue, was ich in dieser Zeit gelernt und erreicht habe, bin ich optimistisch für die kommenden Herausforderungen in der Softwareentwicklung und Datenmodellierung.
 
 
 
