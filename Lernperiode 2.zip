@@ -9,7 +9,7 @@ namespace Hypothekenrechner2._0
         static void Main(string[] args)
         {
             Console.WriteLine("UBS Hypothekenrechner");
-            Console.WriteLine("Erstellt von Amar Nuhija, Alan Lienhard und Ylli Cockgeci");
+            Console.WriteLine("Erstellt von Amar Nuhija, Alan Lienhard und Ylli Kolgeci");
             Console.WriteLine();
 
             var x3 = Math.Pow(x, 3);
